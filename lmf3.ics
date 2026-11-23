@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OASME//LMF 3//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lmf3-20270124@lmforum.github.io
+DTSTAMP:20261123T080000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:منتدى القيادة والإدارة 3 | Leadership & Managem
+ ent Forum 3
+LOCATION:The St. Regis Al Mouj Muscat Resort
+DESCRIPTION:القيادة التحويلية والذكاء الاصطنا
+ عي | Transformational Leadership & AI\nhttps://lmforum.github.io/
+URL:https://lmforum.github.io/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
